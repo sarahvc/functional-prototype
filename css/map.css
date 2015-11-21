@@ -1,0 +1,14 @@
+html, body { 
+  height: 534px; 
+  width: 680px;
+  }
+#map { 
+  height: 534px;
+  width: 680px;
+}
+
+.btn-test {
+	position: absolute;
+	top: 400px;
+	left: 300px;
+}
