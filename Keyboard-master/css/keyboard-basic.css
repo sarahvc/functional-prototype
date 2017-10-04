@@ -150,8 +150,8 @@ button.ui-keyboard-toggle.ui-keyboard-disabled span {
 /*** Extender keyboard extension ***/
 div.ui-keyboard-extender {
 	float: right;
-	margin-left: 5px;
-	margin-right: 10px;
+	margin-left: 6px;
+	margin-right: 11px;
 }
 button.ui-keyboard-extender span {
 	width: .9em;
